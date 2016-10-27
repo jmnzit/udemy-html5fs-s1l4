@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-  <html>
+  <html lang="en-US">
     <head>
+      <meta charset="utf-8">
       <title>Favorite Pic!</title>
     </head>
     <body style="margin:0;background-color:gray;color:#fff;">
